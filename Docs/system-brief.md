@@ -18,5 +18,7 @@ Los equipos independientes de traducción y coloreo de manga suelen utilizar her
 graph TD
     A[Colorista / Traductor] -->|Sube archivos y textos| B(MangaColor Hub Core)
     C[Editor / Admin] -->|Asigna tareas y aprueba| B
-    B --> D[(Base de Datos: Capítulos y Roles)]
-    B --> E[Almacenamiento Cloud: Imágenes]
+    B --> D[(Base de Datos:
+    Capítulos y Roles)]
+    B --> E[Almacenamiento Cloud:
+    Imágenes]
